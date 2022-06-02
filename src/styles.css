@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    border-radius: 7px;
+    width: 300px;
+    height: 20px;
+    margin-top: 30px;
+}
+.botao{
+    margin-top: 20px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: #b3c4fa;
+}
+.botao:hover{
+    background-color: #4668d6;
+}
+h1{
+    color:#4668d6;
+    font-weight: bold;
+    font-size: 36px;
+}
+.Foto{
+    border-radius: 200px;
+    width: 300px;
+}
+.bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
